@@ -1,0 +1,67 @@
+[
+    {
+        "embed": {
+            "description": "This is a youtube channel that provides high quality reddit content. Videos are uploaded regularly so you are never out of funny, interesting or even creepy content!",
+            "color": 15114050,
+            "footer": {
+                "icon_url": "https://i.imgur.com/fvNKUks.png",
+                "text": "I am a robot, son of Daniel (UK)"
+            },
+            "thumbnail": {
+                "url": "https://i.imgur.com/WyzaPKY.png"
+            },
+            "author": {
+                "name": "Sir Reddit",
+                "url": "https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1",
+                "icon_url": "https://i.imgur.com/WyzaPKY.png"
+            },
+            "fields": [
+                {
+                    "name": "Subscribe!",
+                    "value": "https://www.youtube.com/channel/UCYY4U0vI_F88aOQUcSHJOcQ"
+                },
+                {
+                    "name": "Discord Server!",
+                    "value": "https://discord.gg/uCp5jby"
+                }
+            ]
+        }
+    },
+    {
+        "embed": {
+            "title": "Hey there!",
+            "description": "Nice to see you here! You can support us by subscribing on youtube -> [Youtube](https://www.youtube.com/user/RoomieOfficial) <- and also join our  [Discord](https://discord.gg/zaeVCaV)!",
+            "url": "https://discord.gg/uCp5jby",
+            "color": 13003681,
+            "footer": {
+                "icon_url": "https://imgur.com/Mrc9pLd.gif",
+                "text": "everyone is a clown"
+            },
+            "thumbnail": {
+                "url": "https://imgur.com/Mrc9pLd.gif"
+            },
+            "image": {
+                "url": "https://imgur.com/ZUFiL6b.gif"
+            },
+            "author": {
+                "name": "Roomieofficial",
+                "url": "https://discord.gg/uCp5jby",
+                "icon_url": "https://imgur.com/6hBkt7Z.png"
+            },
+            "fields": [
+                {
+                    "name": "What is all this about 🤔",
+                    "value": "We are mainly focused on everything that has anything to do with music or singing! "
+                },
+                {
+                    "name": "Youtube 🙄",
+                    "value": "https://www.youtube.com/channel/UCYY4U0vI_F88aOQUcSHJOcQ"
+                },
+                {
+                    "name": "Discord 😁",
+                    "value": "https://discord.gg/uCp5jby"
+                }
+            ]
+        }
+    }
+]
