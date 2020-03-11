@@ -18,11 +18,11 @@
             "fields": [
                 {
                     "name": "Subscribe!",
-                    "value": "https://www.youtube.com/channel/UCYY4U0vI_F88aOQUcSHJOcQ"
+                    "value": "[**Click Here**](https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1)"
                 },
                 {
                     "name": "Discord Server!",
-                    "value": "https://discord.gg/uCp5jby"
+                    "value": "[**Click Here**](https://discord.gg/V8ErqHb)"
                 }
             ]
         }
@@ -31,7 +31,7 @@
         "embed": {
             "title": "Hey there!",
             "description": "Nice to see you here! You can support us by subscribing on youtube -> [Youtube](https://www.youtube.com/user/RoomieOfficial) <- and also join our  [Discord](https://discord.gg/zaeVCaV)!",
-            "url": "https://discord.gg/uCp5jby",
+            "url": "https://discord.gg/zaeVCaV",
             "color": 13003681,
             "footer": {
                 "icon_url": "https://imgur.com/Mrc9pLd.gif",
@@ -45,7 +45,7 @@
             },
             "author": {
                 "name": "Roomieofficial",
-                "url": "https://discord.gg/uCp5jby",
+                "url": "https://discord.gg/zaeVCaV",
                 "icon_url": "https://imgur.com/6hBkt7Z.png"
             },
             "fields": [
@@ -55,11 +55,11 @@
                 },
                 {
                     "name": "Youtube 🙄",
-                    "value": "https://www.youtube.com/channel/UCYY4U0vI_F88aOQUcSHJOcQ"
+                    "value": "U will get great content if you follow our [Youtube](https://www.youtube.com/user/RoomieOfficial) with weekly uploads."
                 },
                 {
                     "name": "Discord 😁",
-                    "value": "https://discord.gg/uCp5jby"
+                    "value": "Make sure to join our [Discord](https://discord.gg/zaeVCaV) We have weekly events, 24/7 chats and more!"
                 }
             ]
         }
